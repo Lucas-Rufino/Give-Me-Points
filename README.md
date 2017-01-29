@@ -42,6 +42,8 @@ como algumas funcionalidades da aplicação podemos citar:
 
 ![dados](https://github.com/Lucas-Rufino/Give-Me-Points/blob/master/doc/8.jpeg?raw=true)
 
-  - Através do menu, click com botão direito do mouse sobre mapa, é possível realizar outra função secundárias: imprimir, salvar...
+  - Através do menu, click com botão direito do mouse sobre mapa, é possível realizar outra função secundárias: imprimir, salvar...  - Função derivada da biblioteca JFreeChart
 
+<center>
 ![dados](https://github.com/Lucas-Rufino/Give-Me-Points/blob/master/doc/7.png?raw=true)
+</center>

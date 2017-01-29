@@ -40,7 +40,9 @@ como algumas funcionalidades da aplicação podemos citar:
 
   - Permite visualizar pontos expecificos do gráfico além dos especificados - Função derivada da biblioteca JFreeChart
 
+<p align="center">
 <img align="center" src="https://github.com/Lucas-Rufino/Give-Me-Points/blob/master/doc/8.jpeg?raw=true" alt="doc">
+</p>
 
   - Através do menu, click com botão direito do mouse sobre mapa, é possível realizar outra função secundárias: imprimir, salvar...  - Função derivada da biblioteca JFreeChart
 

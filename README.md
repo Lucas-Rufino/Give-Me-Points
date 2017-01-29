@@ -12,8 +12,10 @@ O projeto utiliza de uma técnica que usa como base o calculo de determinantes p
 
 O programa possui a capacidade de plotar retas, circunferências e cônicas através de 2, 3 e 5 pontos, respectivamente. O aplicativo além de mostrar todas as curvas obtidas, também mostra a respectiva equação e indica a especificação do que se trata a equação, isso é, se corresponde a uma reta, circunferência, elipse, hipérbole, retas concorrentes...
 
+<center>
 ![Inicio](https://github.com/Lucas-Rufino/Give-Me-Points/blob/master/doc/1.png?raw=true)
 ![Plot de reta](https://github.com/Lucas-Rufino/Give-Me-Points/blob/master/doc/2.png?raw=true)
+</center>
 
 ## Funcionalidades
 
